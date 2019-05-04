@@ -1,0 +1,37 @@
+
+body {  
+background-color:  #6fdc6f;  
+
+}
+
+
+section { 
+    background-color: white; 
+    border-radius: 6px; 
+}
+
+
+#entête { 
+    margin-left: 25px;
+    font-size: 25px;
+}
+
+
+.achats { 
+display: flex; 
+justify-content: space-around; 
+align-items: center;
+}
+
+
+#number { 
+  display: -webkit-inline-box;
+
+}
+
+.sum { display: flex; }
+
+.priceicon  { 
+display: flex; 
+}
+
